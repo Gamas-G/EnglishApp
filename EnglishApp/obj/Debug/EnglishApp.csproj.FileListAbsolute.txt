@@ -1,0 +1,13 @@
+C:\Users\kukul\source\repos\Escritorio\EnglishApp\EnglishApp\bin\Debug\EnglishApp.exe.config
+C:\Users\kukul\source\repos\Escritorio\EnglishApp\EnglishApp\bin\Debug\EnglishApp.exe
+C:\Users\kukul\source\repos\Escritorio\EnglishApp\EnglishApp\bin\Debug\EnglishApp.pdb
+C:\Users\kukul\source\repos\Escritorio\EnglishApp\EnglishApp\obj\Debug\EnglishApp.csprojAssemblyReference.cache
+C:\Users\kukul\source\repos\Escritorio\EnglishApp\EnglishApp\obj\Debug\EnglishApp.Form1.resources
+C:\Users\kukul\source\repos\Escritorio\EnglishApp\EnglishApp\obj\Debug\EnglishApp.Properties.Resources.resources
+C:\Users\kukul\source\repos\Escritorio\EnglishApp\EnglishApp\obj\Debug\EnglishApp.csproj.GenerateResource.cache
+C:\Users\kukul\source\repos\Escritorio\EnglishApp\EnglishApp\obj\Debug\EnglishApp.csproj.CoreCompileInputs.cache
+C:\Users\kukul\source\repos\Escritorio\EnglishApp\EnglishApp\obj\Debug\EnglishApp.exe
+C:\Users\kukul\source\repos\Escritorio\EnglishApp\EnglishApp\obj\Debug\EnglishApp.pdb
+C:\Users\kukul\source\repos\Escritorio\EnglishApp\EnglishApp\bin\Debug\MySql.Data.dll
+C:\Users\kukul\source\repos\Escritorio\EnglishApp\EnglishApp\bin\Debug\MySql.Data.xml
+C:\Users\kukul\source\repos\Escritorio\EnglishApp\EnglishApp\obj\Debug\EnglishApp.csproj.CopyComplete
